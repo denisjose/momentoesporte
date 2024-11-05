@@ -40,4 +40,8 @@ function loadAllAuthorsCards() {
     });
 }
 
-document.addEventListener("DOMContentLoaded", loadAllAuthorsCards);
+const path = window.location.pathname;
+
+if (path === "/autores/") {
+    document.addEventListener("DOMContentLoaded", loadAllAuthorsCards);
+}
