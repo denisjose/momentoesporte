@@ -6,6 +6,11 @@ const path = window.location.pathname;
 if (path === "/autores/") {
     document.getElementById("404error").outerHTML = `
     <section id="autores" class="text-white section-scrollbar" style="padding-top: 70px;">
+        <div class="container">
+            <div class="row" id="news-container">
+                
+            </div>
+        </div>
     </section>
     `
 }
