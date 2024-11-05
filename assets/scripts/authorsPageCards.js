@@ -1,6 +1,15 @@
 import { authors } from '/assets/dados/autores.js'
 import { posts } from '/assets/dados/posts.js'
 
+const path = window.location.pathname;
+
+if (path === "/autores/") {
+    document.getElementById("404error").outerHTML = `
+    <section id="autores" class="text-white section-scrollbar" style="padding-top: 70px;">
+    </section>
+    `
+}
+
 const element = document.querySelector('section#autores').querySelector('div.container').querySelector('div.row');
 
 const countPostsByAuthorId = (posts, authorId) => {
@@ -39,8 +48,6 @@ function loadAllAuthorsCards() {
         loadAuthorCard(item.index);
     });
 }
-
-const path = window.location.pathname;
 
 if (path === "/autores/") {
     document.addEventListener("DOMContentLoaded", loadAllAuthorsCards);
