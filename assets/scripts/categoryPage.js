@@ -5,7 +5,7 @@ const path = window.location.pathname;
 
 function loadContentCategoryPage(category_id) {
     document.getElementById("404error").outerHTML = `
-        <section id="${categories[category_id]["category-page"]}Category" class="sined-2 text-white section-scrollbar" style="padding-top: 70px;">
+        <section id="${categories[category_id]["category-page"]}Category" class="text-white section-scrollbar" style="padding-top: 70px;">
             <div class="container">
                 <div class="row" id="news-container">
                     <h1>${categories[category_id]["category"]}</h1>
