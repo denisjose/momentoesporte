@@ -1,18 +1,32 @@
 import { authors } from '/assets/dados/autores.js'
 import { posts } from '/assets/dados/posts.js'
 
+function activeAutoresNavbar() {
+    const autoresLink = document.querySelector('a.nav-link[href="/autores/"]');
+    
+    if (autoresLink) {
+        autoresLink.classList.add('active');
+        const icon = autoresLink.querySelector('i.bi-person');
+        if (icon) {
+            icon.classList.remove('bi-person');
+            icon.classList.add('bi-person-fill');
+        }
+    }
+}
+
 const path = window.location.pathname;
 
 if (path === "/autores/") {
     document.getElementById("404error").outerHTML = `
     <section id="autores" class="text-white section-scrollbar" style="padding-top: 70px;">
         <div class="container">
-            <div class="row" id="news-container">
-                
+            <div class="row" id="authors-container">
+                <h1>Autores</h1>
             </div>
         </div>
     </section>
     `
+    activeAutoresNavbar();
 }
 
 const element = document.querySelector('section#autores').querySelector('div.container').querySelector('div.row');
