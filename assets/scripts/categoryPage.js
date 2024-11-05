@@ -47,7 +47,7 @@ if (splitRemoveEmpty(path)[0] === "categorias") {
 
     categories.forEach((categories, category_id) => {
         if (categories["category-page"] === category_page) {
-            loadContentCategoryPage(category_id);
+            // loadContentCategoryPage(category_id);
             activeNavbar(category_id);
             loadCards(category_id)
         }
