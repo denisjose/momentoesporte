@@ -14,7 +14,10 @@
     transition: 0.35s;
 }
 
-
+.text-tertiary{
+    --bs-text-opacity:1;
+    color: #ffde59 !important
+}
 
 .btn-tertiary {
     --bs-btn-color:#000;
@@ -69,4 +72,16 @@ a.dropdown-item:hover {
 
 a.active .nav-icon {
     font-variation-settings: 'wght' 400;
+}
+
+.author-card {
+    transition: transform 0.2s linear, border-color 0.1s linear;
+    padding-bottom: 5px !important;
+    padding-top: 12px !important;
+    margin-bottom: .5rem;
+}
+
+.author-card:hover {
+    transform: translateY(-3px);
+    border-color: #ffde59 !important;
 }
