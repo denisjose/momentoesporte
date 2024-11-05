@@ -18,7 +18,7 @@ function loadContentAuthor(author, author_id) {
     var divider = postsCount > 0 ? '<hr class="border border-1 opacity-50" style="border-color: #ffde59 !important;">' : ""; 
 
     document.getElementById("404error").outerHTML = `
-    <section id="author@${author['author-page']}" class="text-white section-scrollbar" style="padding-top: 70px;">
+    <section id="author@${author['author-page']}" class="sined-1 text-white section-scrollbar" style="padding-top: 70px;">
         <div class="container">
             <div class="row" id="news-container">
                 <div class="text-center mb-4">
