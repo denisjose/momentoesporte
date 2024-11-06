@@ -102,3 +102,7 @@ a.active .nav-icon {
 .card {
     overflow: hidden;
 }
+
+.card-text {
+    font-style: italic;
+}
