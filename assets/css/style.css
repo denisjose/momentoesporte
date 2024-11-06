@@ -90,3 +90,15 @@ a.active .nav-icon {
     background-color: #06030380;
     border-radius: 0 0 8px 8px;
 }
+
+.card img:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    transition: all 1.1s ease;
+}
+
+.card {
+    overflow: hidden;
+}
