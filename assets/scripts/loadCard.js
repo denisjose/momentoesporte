@@ -11,7 +11,7 @@ export function loadCard(element, post) {
     const authorPost = authors[post["author-id"]]
 
     newsCard.innerHTML = `
-            <div class="card bg-dark text-white">
+            <div class="card shadow bg-dark text-white">
                 <img src="/assets/imgs/posts/${post["card-img-src"] === "" ? "notfound.png" : post["card-img-src"]}">
                 <div class="card-body">
                     <a href="/categorias/${categories[post["category-id"]]["category-page"]}" class="text-light text-tertiary mb-0" style="text-decoration-line: none; font-size: 0.8rem; font-weight: 300;">${categories[post["category-id"]]["category"]}</a>

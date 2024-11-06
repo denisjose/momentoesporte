@@ -85,3 +85,8 @@ a.active .nav-icon {
     transform: translateY(-3px);
     border-color: #ffde59 !important;
 }
+
+.card-body {
+    background-color: #06030380;
+    border-radius: 0 0 8px 8px;
+}
