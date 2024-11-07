@@ -4,6 +4,8 @@ RewriteRule ^autores/.*$ /basic/basic.html [L]
 
 RewriteRule ^categorias/.*$ /basic/basic.html [L]
 
+RewriteRule ^post/.*$ /basic/postBasic.html [L]
+
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^.*$ /404.html [L]

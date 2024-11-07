@@ -29,13 +29,12 @@ if (path === "/autores/") {
     activeAutoresNavbar();
 }
 
-const element = document.querySelector('section#autores').querySelector('div.container').querySelector('div.row');
-
 const countPostsByAuthorId = (posts, authorId) => {
     return posts.filter(post => post["author-id"] === authorId).length;
 };
 
 function loadAuthorCard(author_id) {
+    const element = document.querySelector('section#autores').querySelector('div.container').querySelector('div.row');
     const postsCount = countPostsByAuthorId(posts, Number(author_id));
 
     var publicacoesText = postsCount > 1 ? "publicações" : "publicação";
