@@ -7,9 +7,9 @@
 //         "date": ["","",""],
 //         "hour": ["",""]
 //     },
-//     "category-id": 0
-// "noticeHTML": `
-// <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
+//     "category-id": 0,
+//     "noticeHTML": `
+//     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
 // `
 // }
 
@@ -21,7 +21,7 @@
 // 4: Eduardo
 // 5: Bernardo
 
-const postsReal =
+export const postsReal =
 [
     {
         "img-src": "Conheça_mais_a_respeito_do_xadrez_um_esporte_popular_em_todo_mundo.png",
@@ -56,6 +56,20 @@ const postsReal =
             "hour": ["22","07"]
         },
         "category-id": 0
+    },
+    {
+        "img-src": "",
+        "headline": "",
+        "fine-line": "",
+        "author-id": 0,
+        "publish-date": {
+            "date": ["","",""],
+            "hour": ["",""]
+        },
+        "category-id": 0,
+        "noticeHTML": `
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
+        `
     }
 ]
 
