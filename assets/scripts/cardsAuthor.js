@@ -8,7 +8,7 @@ export function loadCards(author_id) {
         return value.toString().padStart(2, '0');
     }
 
-    const sortedPosts = posts
+    const sortedPosts = [...posts]
         .filter(post => post["author-id"] === author_id)
         .sort((a, b) => {
             const dateA = new Date(

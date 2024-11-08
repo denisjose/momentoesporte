@@ -8,7 +8,7 @@ export function loadCards(category_id) {
         return value.toString().padStart(2, '0');
     }
 2
-    const sortedPosts = posts
+    const sortedPosts = [...posts]
         .filter(post => post["category-id"] === category_id)
         .sort((a, b) => {
             const dateA = new Date(

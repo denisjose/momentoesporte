@@ -2,11 +2,13 @@ import { loadCard } from '/assets/scripts/loadCard.js'
 import { posts } from '/assets/dados/posts.js'
 
 function shufflePosts(postsArray) {
-    for (let i = postsArray.length - 1; i > 0; i--) {
+    const shuffledArray = [...postsArray]; // Cria uma cópia de postsArray
+
+    for (let i = shuffledArray.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
-        [postsArray[i], postsArray[j]] = [postsArray[j], postsArray[i]];
+        [shuffledArray[i], shuffledArray[j]] = [shuffledArray[j], shuffledArray[i]];
     }
-    return postsArray;
+    return shuffledArray;
 }
 
 function loadCards() {

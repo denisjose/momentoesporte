@@ -8,7 +8,7 @@ function loadCards() {
         return value.toString().padStart(2, '0');
     }
 
-    const sortedPosts = posts.sort((a, b) => {
+    const sortedPosts = [...posts].sort((a, b) => {
         const dateA = new Date(
             `${a["publish-date"]["date"][2]}-${padZero(a["publish-date"]["date"][1])}-${padZero(a["publish-date"]["date"][0])}T${padZero(a["publish-date"]["hour"][0])}:${padZero(a["publish-date"]["hour"][1])}`
         );
