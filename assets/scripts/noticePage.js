@@ -29,6 +29,22 @@ if (path.startsWith("/post/")) {
     section.classList.add("section-scrollbar");
     section.style.paddingTop = "70px";
 
+    let authorHTML = '';
+    if (Array.isArray(post["author-id"])) {
+        let authorNames = post["author-id"].map(id => {
+            let author = authors[id];
+            return `<a href="/autores/@${author["author-page"]}" class="text-decoration-none" style="color: antiquewhite;">${author["author-nickname"]}</a>`;
+        });
+        if (authorNames.length > 1) {
+            authorHTML = `Por ${authorNames.slice(0, -1).join(', ')} e ${authorNames[authorNames.length - 1]}`;
+        } else {
+            authorHTML = `Por ${authorNames[0]}`;
+        }
+    } else {
+        let author = authors[post["author-id"]];
+        authorHTML = `Por <a href="/autores/@${author["author-page"]}" class="text-decoration-none" style="color: antiquewhite;">${author["author-nickname"]}</a>`;
+    }
+
     section.innerHTML = `
         <div class="row">
             <div class="col-md-10 offset-md-1">
@@ -46,10 +62,7 @@ if (path.startsWith("/post/")) {
 
                 <p class="mb-1">
                     <span class="notice-author">
-                        Por
-                        <a href="/autores/@${authorPost["author-page"]}" class="text-decoration-none" style="color: antiquewhite;">
-                            ${authorPost["author-nickname"]}
-                        </a>
+                    ${authorHTML}
                     </span>
                     <span class="notice-date">
                         • ${date[0]}/${date[1]}/${date[2]} • ${hour[0]}:${hour[1]}

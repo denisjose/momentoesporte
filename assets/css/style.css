@@ -146,6 +146,12 @@ a.active .nav-icon {
     margin-bottom: 20px;
 }
 
+.notice-body video {
+    width: 100%;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+
 .image-link img {
     width: 100%; /* ou defina uma largura fixa, por exemplo 300px */
     height: auto; /* mantém a proporção da imagem */

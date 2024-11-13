@@ -30,7 +30,9 @@ if (path === "/autores/") {
 }
 
 const countPostsByAuthorId = (posts, authorId) => {
-    return posts.filter(post => post["author-id"] === authorId).length;
+    return posts.filter(post => 
+        Array.isArray(post["author-id"]) ? post["author-id"].includes(authorId) : post["author-id"] === authorId
+    ).length;
 };
 
 function loadAuthorCard(author_id) {

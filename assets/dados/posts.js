@@ -9,7 +9,7 @@
 //     },
 //     "category-id": 0,
 //     "noticeHTML": `
-//     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
+//         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
 // `
 // }
 
@@ -56,6 +56,26 @@ export const postsReal =
             "hour": ["22","07"]
         },
         "category-id": 0
+    },
+    {
+        "img-src": "chesstv.png",
+        "headline": "Chess TV",
+        "fine-line": "Versão 10/11/2024<br>Episódio #1<br>Confira agora as últimas notícias do mundo do xadrez",
+        "author-id": [4, 5],
+        "publish-date": {
+            "date": ["10","11","2024"],
+            "hour": ["17","05"]
+        },
+        "category-id": 3,
+        "noticeHTML": `
+        <div class="notice-body">
+            <h3>Chess TV | Versão 10/11/2024 #1</h3>
+            <video controls class="img-fluid rounded">
+                <source src="/assets/imgs/posts/chesstv1.mp4" type="video/mp4">
+                Seu navegador não suporta vídeos.
+            </video>
+        </div>
+        `
     }
 ]
 

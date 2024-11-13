@@ -5,7 +5,9 @@ import { posts } from '/assets/dados/posts.js'
 const path = window.location.pathname;
 
 const countPostsByAuthorId = (posts, authorId) => {
-    return posts.filter(post => post["author-id"] === authorId).length;
+    return posts.filter(post => 
+        Array.isArray(post["author-id"]) ? post["author-id"].includes(authorId) : post["author-id"] === authorId
+    ).length;
 };
 
 function loadContentAuthor(author, author_id) {

@@ -9,7 +9,9 @@ export function loadCards(author_id) {
     }
 
     const sortedPosts = [...posts]
-        .filter(post => post["author-id"] === author_id)
+        .filter(post => 
+            Array.isArray(post["author-id"]) ? post["author-id"].includes(author_id) : post["author-id"] === author_id
+        )
         .sort((a, b) => {
             const dateA = new Date(
                 `${a["publish-date"]["date"][2]}-${padZero(a["publish-date"]["date"][1])}-${padZero(a["publish-date"]["date"][0])}T${padZero(a["publish-date"]["hour"][0])}:${padZero(a["publish-date"]["hour"][1])}`
