@@ -55,7 +55,14 @@ export const postsReal =
             "date": ["04","11","2024"],
             "hour": ["22","07"]
         },
-        "category-id": 0
+        "category-id": 0,
+        "noticeHTML": `
+        <p>Em uma partida emocionante na Neo Química Arena, o Corinthians venceu o Palmeiras por 2 a 0 na noite desta segunda-feira (4), em duelo válido pelo Campeonato Brasileiro. O jogo, marcado pela rivalidade entre as equipes, trouxe alívio e esperanças para o time alvinegro, que luta para escapar da zona de rebaixamento.</p>
+        <p>O primeiro gol saiu aos 41 minutos do primeiro tempo, com uma sobra do jogador do palmeiras na zaga. A bola sobrou para Matheuzinho, que tocou para Garro que colocou no fundo das redes, inaugurando o placar para o Corinthians.</p>
+        <p>No segundo tempo, o Palmeiras tentou pressionar e até criou algumas chances, mas foi o Corinthians que ampliou a vantagem. Aos 56 minutos, em um rápido contra-ataque, Garro deu um passe preciso ao atacante Yuri Alberto, Weverton se atrapalha e Yuri encontra o espaço certo, selando a vitória corinthiana.</p>
+        <p>Com o resultado, o Corinthians soma três pontos essenciais e dá um passo importante para se afastar da parte baixa da tabela. A vitória sobre o rival fortalece o moral da equipe e traz um novo ânimo para a reta final do campeonato. Enquanto isso, o Palmeiras, que vinha em busca de uma vitória para consolidar sua posição entre os primeiros colocados, viu sua sequência positiva ser interrompida.>
+        <p>A torcida corinthiana fez a festa nas arquibancadas, comemorando não só a vitória no clássico, mas também a esperança renovada para o restante da temporada.</p>
+        `
     },
     {
         "img-src": "chesstv.png",
