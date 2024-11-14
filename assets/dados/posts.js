@@ -83,6 +83,23 @@ export const postsReal =
             </video>
         </div>
         `
+    },
+    {
+        "img-src": "corinthians_mantem_esperanca_de_evitar_rebaixamento_apos_33__rodada_do_brasileirao.png",
+        "headline": "Corinthians \"zera\" rebaixamento após 33ª rodada do Brasileirão",
+        "fine-line": "Com apenas 0,5% de chance de rebaixamento, o Timão se afasta da zona perigosa, enquanto rivais enfrentam cenários mais críticos na reta final do campeonato",
+        "author-id": 0,
+        "publish-date": {
+            "date": ["14","11","2024"],
+            "hour": ["15","04"]
+        },
+        "category-id": 0,
+        "noticeHTML": `
+            <p>O Corinthians segue firme na luta para evitar o rebaixamento, alcançando a 33ª rodada com apenas 0,5% de risco de cair para a Série B do Campeonato Brasileiro. Após um começo de temporada turbulento, o time paulista conseguiu ajustar a defesa e aprimorar o entrosamento no meio de campo, o que tem sido crucial para sua recuperação nas últimas rodadas.</p>
+            <p>Os números mostram um cenário positivo para o Corinthians em comparação com outras equipes. Atlético-GO e Cuiabá enfrentam chances quase inevitáveis de rebaixamento, com 99,96% e 98,1% de risco, respectivamente. Logo abaixo, Athletico-PR e Bragantino também estão em situações delicadas, com percentuais de 48,1% e 41,5%.</p>
+            <p>O técnico do Corinthians tem enfatizado a importância de foco total para garantir a permanência na Série A, apesar das probabilidades reduzidas. A torcida se mostra otimista, e os jogadores têm demonstrado comprometimento em cada jogo, mantendo o time fora do grupo de rebaixamento.</p>
+            <p>Enquanto isso, o Atlético-MG e o Vasco da Gama têm cenários ainda mais confortáveis, com 0,35% e 0,026% de chance de queda, respectivamente. No entanto, para o Corinthians, garantir a segurança até o final do campeonato depende de manter o ritmo nas partidas restantes.</p>
+    `
     }
 ]
 
