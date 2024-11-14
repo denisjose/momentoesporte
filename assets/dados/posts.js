@@ -119,6 +119,23 @@ export const postsReal =
             <p>Por fim, o Grupo D é liderado pelo Palmeiras, que medirá forças com a Ponte Preta, São Bernardo e Velo Clube. A Ponte, uma das equipes mais tradicionais do interior, e o São Bernardo prometem ser adversários duros para o atual campeão brasileiro.</p>
             <p>Com esses grupos, o Paulistão 2025 já tem tudo para proporcionar grandes partidas e muita emoção aos torcedores, que aguardam o início do campeonato no próximo ano.</p>
     `
+    },
+    {
+        "img-src": "pai_de_neymar_propoe_investimento_de_r__1_3_bilhao_ao_santos_e_sugere_retorno_de_neymar_e_danilo.png",
+        "headline": "Pai de Neymar propõe investimento de R$ 1,3 bilhão ao Santos e sugere retorno de Neymar e Danilo",
+        "fine-line": "Proposta inclui aporte financeiro significativo e possível retorno de ex-jogadores ao clube paulista",
+        "author-id": 0,
+        "publish-date": {
+            "date": ["14","11","2024"],
+            "hour": ["17","01"]
+        },
+        "category-id": 0,
+        "noticeHTML": `
+            <p>Neymar da Silva Santos, pai do jogador Neymar Jr., apresentou ao Santos Futebol Clube uma proposta de investimento no valor de R$ 1,3 bilhão. A oferta visa fortalecer a estrutura financeira e esportiva do clube, incluindo a possibilidade de retorno de Neymar Jr. e do lateral-direito Danilo, atualmente no Juventus, da Itália.</p>
+            <p>A proposta detalha um plano de reestruturação financeira, com foco na quitação de dívidas e na modernização das instalações do clube. Além disso, prevê a criação de um fundo destinado à contratação de jogadores de alto nível, visando recolocar o Santos entre os principais times do futebol brasileiro e internacional.</p>
+            <p>O retorno de Neymar Jr. e Danilo seria parte central dessa estratégia, trazendo experiência e qualidade técnica ao elenco santista. Ambos os jogadores iniciaram suas carreiras profissionais no Santos e possuem forte ligação afetiva com o clube.</p>
+            <p>A diretoria do Santos confirmou o recebimento da proposta e informou que está analisando os detalhes antes de tomar uma decisão. Torcedores e analistas esportivos aguardam com expectativa os desdobramentos dessa possível parceria, que pode marcar uma nova era na história do clube.</p>
+    `
     }
 ]
 
