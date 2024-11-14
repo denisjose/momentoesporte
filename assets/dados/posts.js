@@ -100,6 +100,25 @@ export const postsReal =
             <p>O técnico do Corinthians tem enfatizado a importância de foco total para garantir a permanência na Série A, apesar das probabilidades reduzidas. A torcida se mostra otimista, e os jogadores têm demonstrado comprometimento em cada jogo, mantendo o time fora do grupo de rebaixamento.</p>
             <p>Enquanto isso, o Atlético-MG e o Vasco da Gama têm cenários ainda mais confortáveis, com 0,35% e 0,026% de chance de queda, respectivamente. No entanto, para o Corinthians, garantir a segurança até o final do campeonato depende de manter o ritmo nas partidas restantes.</p>
     `
+    },
+    {
+        "img-src": "grupos_do_paulistao_2025_sao_definidos__confira_os_confrontos.png",
+        "headline": "Grupos do Paulistão 2025 são definidos; confira os confrontos",
+        "fine-line": "Corinthians, Palmeiras, São Paulo e Santos lideram as chaves em sorteio para o estadual",
+        "author-id": 0,
+        "publish-date": {
+            "date": ["14","11","2024"],
+            "hour": ["16","17"]
+        },
+        "category-id": 0,
+        "noticeHTML": `
+            <p>O sorteio dos grupos do Paulistão 2025 definiu os confrontos da próxima edição do campeonato estadual. Em uma disputa que promete emoção do começo ao fim, os grandes clubes paulistas já conhecem seus primeiros adversários e iniciam a preparação para buscar o título.</p>
+            <p>No Grupo A, o Corinthians encabeça a chave e terá pela frente o Inter de Limeira, Mirassol e Botafogo. O alvinegro paulista enfrenta uma chave competitiva, com o Mirassol sempre se destacando como uma equipe forte e organizada, capaz de surpreender.</p>
+            <p>No Grupo B, o Santos lidera uma chave equilibrada, ao lado de Red Bull Bragantino, Portuguesa e Guarani. O Bragantino, com estrutura e investimento em ascensão, promete dificultar para o Santos, enquanto Portuguesa e Guarani buscam retomar o protagonismo no estadual.</p>
+            <p>O Grupo C traz o São Paulo como favorito, competindo contra Novorizontino, Água Santa e Noroeste. O tricolor paulista enfrenta adversários tradicionais do interior, como o Novorizontino, que tem se consolidado como uma equipe competitiva no cenário estadual.</p>
+            <p>Por fim, o Grupo D é liderado pelo Palmeiras, que medirá forças com a Ponte Preta, São Bernardo e Velo Clube. A Ponte, uma das equipes mais tradicionais do interior, e o São Bernardo prometem ser adversários duros para o atual campeão brasileiro.</p>
+            <p>Com esses grupos, o Paulistão 2025 já tem tudo para proporcionar grandes partidas e muita emoção aos torcedores, que aguardam o início do campeonato no próximo ano.</p>
+    `
     }
 ]
 
