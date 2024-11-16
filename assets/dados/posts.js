@@ -9,7 +9,8 @@
 //     },
 //     "category-id": 0,
 //     "noticeHTML": `
-//         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ac erat at justo dapibus sollicitudin. Vivamus et mi ac lorem aliquet malesuada sit amet eget velit. Fusce efficitur tristique tellus, at ultricies libero gravida id.</p>
+//         <p></p>
+//         <p></p>
 // `
 // }
 
@@ -136,213 +137,108 @@ export const postsReal =
             <p>O retorno de Neymar Jr. e Danilo seria parte central dessa estratégia, trazendo experiência e qualidade técnica ao elenco santista. Ambos os jogadores iniciaram suas carreiras profissionais no Santos e possuem forte ligação afetiva com o clube.</p>
             <p>A diretoria do Santos confirmou o recebimento da proposta e informou que está analisando os detalhes antes de tomar uma decisão. Torcedores e analistas esportivos aguardam com expectativa os desdobramentos dessa possível parceria, que pode marcar uma nova era na história do clube.</p>
     `
+    },
+    {
+        "img-src": "flamengo_pentacampeao_da_copa_do_brasil__um_marco_na_historia_do_futebol_brasileiro.png",
+        "headline": "Flamengo Pentacampeão da Copa do Brasil: Um Marco na História do Futebol Brasileiro",
+        "fine-line": "Flamengo Pentacampeão e a história fica ainda mais bonita",
+        "author-id": 1,
+        "publish-date": {
+            "date": ["15","11","2024"],
+            "hour": ["15","07"]
+        },
+        "category-id": 0,
+        "noticeHTML": `
+            <p>O Flamengo, um dos clubes mais tradicionais e vitoriosos do Brasil, escreveu mais um capítulo glorioso em sua rica história ao conquistar o pentacampeonato da Copa do Brasil. Com cinco títulos no torneio (1990, 2006, 2013, 2022 e 2024), o Rubro-Negro reafirma sua hegemonia no futebol nacional e o peso de sua camisa nos momentos decisivos.</p>
+            <br>
+            <h6>Uma Campanha Memorável</h6>
+            <p>A campanha do Flamengo na edição de 2024 foi marcada por emoção, superação e o brilho de jogadores que justificaram o investimento e o apoio de sua apaixonada torcida. Desde as fases iniciais, o time demonstrou consistência, combinando técnica e intensidade para superar adversários desafiadores.</p>
+            <p>O Maracanã, sempre um caldeirão nos jogos decisivos, foi palco de momentos inesquecíveis, com o apoio incondicional da Nação Rubro-Negra. A trajetória incluiu confrontos épicos contra rivais históricos, com atuações marcantes de craques como Gabigol, Arrascaeta e outros pilares do elenco.</p>
+            <br>
+            <h6>A Final: Drama e Glória</h6>
+            <p>A grande final, como não poderia ser diferente, foi uma verdadeira batalha. Enfrentando um adversário igualmente determinado, o Flamengo precisou de sangue frio, experiência e talento para conquistar o troféu. A decisão foi marcada por lances de tirar o fôlego, gols emblemáticos e um final dramático que coroou o clube como pentacampeão.</p>
+            <p>A vitória, mais do que um título, simboliza o espírito vencedor do Flamengo, que soube se reinventar e superar adversidades ao longo dos anos. O quinto troféu da Copa do Brasil solidifica a posição do clube como um dos maiores vencedores da competição, mostrando sua capacidade de dominar tanto em torneios de pontos corridos quanto em competições eliminatórias.</p>
+            <br>
+            <h6>Um Legado para a História</h6>
+            <p>O pentacampeonato da Copa do Brasil é mais um marco na rica galeria de conquistas do Flamengo. Além de consolidar o clube no topo do futebol brasileiro, o título reforça a força de sua torcida, que é, sem dúvida, uma das maiores e mais apaixonadas do mundo. O troféu também traz implicações importantes para o futuro, como a vaga garantida na Libertadores, abrindo caminho para novas conquistas internacionais.</p>
+            <p>Com essa vitória, o Flamengo reafirma seu lema: “Uma vez Flamengo, sempre Flamengo”. E a Nação pode celebrar mais uma vez o protagonismo de um clube que não para de fazer história.</p>
+    `
+    },
+    {
+        "img-src": "rafael_nadal_anuncia_aposentadoria__o_adeus_de_uma_lenda_do_tenis.png",
+        "headline": "Rafael Nadal Anuncia Aposentadoria: O Adeus de uma Lenda do Tênis",
+        "fine-line": "Rafael Nadal se despede das quadras, mas sua lenda viverá para sempre",
+        "author-id": 1,
+        "publish-date": {
+            "date": ["15","11","2024"],
+            "hour": ["15","10"]
+        },
+        "category-id": 2,
+        "noticeHTML": `
+            <p>O mundo do tênis viveu um momento histórico e emocionante com o anúncio da aposentadoria de Rafael Nadal. Após uma carreira lendária, marcada por recordes, títulos e um espírito competitivo inigualável, o espanhol decidiu pendurar a raquete, deixando um legado que transcende o esporte.</p>
+            <br>
+            <h6>Uma Trajetória de Grandeza</h6>
+            <p>Nadal é amplamente reconhecido como um dos maiores tenistas de todos os tempos. Com 22 títulos de Grand Slam no currículo, incluindo 14 triunfos incríveis em Roland Garros, o "Rei do Saibro" redefiniu o significado de domínio em uma superfície. Sua capacidade de superar adversários e adversidades, mesmo nos momentos mais difíceis, se tornou uma marca registrada.</p>
+            <p>Desde o início de sua carreira, ainda adolescente, até os últimos anos, Nadal encantou o mundo com sua garra, determinação e um estilo de jogo único, caracterizado por força, técnica e resiliência mental. Além de suas conquistas no saibro, ele brilhou em quadras duras e na grama, consolidando-se como um jogador completo e versátil.</p>
+            <br>
+            <h6>O Impacto das Lesões</h6>
+            <p>Nos últimos anos, as lesões cobraram seu preço. Nadal enfrentou desafios físicos recorrentes que limitaram sua presença no circuito e, eventualmente, influenciaram sua decisão de se aposentar. Mesmo assim, ele nunca deixou de demonstrar paixão e dedicação ao esporte, lutando até o fim em cada partida que disputou.</p>
+            <br>
+            <h6>Legado Dentro e Fora das Quadras</h6>
+            <p>O impacto de Nadal vai muito além de seus títulos e vitórias. Ele se tornou um modelo de humildade, trabalho duro e respeito pelos adversários. Seu comportamento dentro e fora das quadras inspirou milhões de fãs e novos talentos do tênis ao redor do mundo.</p>
+            <p>Além disso, Nadal é conhecido por seu trabalho filantrópico por meio da Fundação Rafael Nadal, que promove o desenvolvimento de crianças e jovens desfavorecidos através do esporte e da educação.</p>
+            <br>
+            <h6>O Fim de Uma Era</h6>
+            <p>A aposentadoria de Rafael Nadal marca o fim de uma era dourada do tênis, em que ele, Roger Federer e Novak Djokovic elevaram o esporte a novos patamares. O adeus de Nadal é um momento de celebração de sua carreira extraordinária, mas também de nostalgia, pois o tênis perde um de seus maiores ícones.</p>
+            <p>Embora deixe as quadras, Nadal continuará a ser lembrado como um gigante do esporte, cuja paixão e determinação inspirarão gerações futuras. Como ele mesmo disse em sua despedida: "Joguei cada partida como se fosse a última. Agora, é hora de começar um novo capítulo."</p>
+    `
+    },
+    {
+        "img-src": "klay_thompson_e_recebido_com_homenagens_na_bay_area_e_elogiado_por_neymar.png",
+        "headline": "Klay Thompson é Recebido com Homenagens na Bay Area e Elogiado por Neymar",
+        "fine-line": "Klay Thompson retorna à Bay Area e é celebrado como uma verdadeira lenda.",
+        "author-id": 3,
+        "publish-date": {
+            "date": ["15","11","2024"],
+            "hour": ["16","34"]
+        },
+        "category-id": 1,
+        "noticeHTML": `
+            <p>A última quarta-feira (13) marcou um momento especial para Klay Thompson, agora jogador do Dallas Mavericks, ao retornar à Bay Area para enfrentar seu antigo time, o Golden State Warriors. A recepção calorosa que o astro recebeu no Chase Center emocionou fãs, ex-companheiros de equipe e até mesmo celebridades, como Neymar, que fez questão de registrar sua admiração nas redes sociais.</p>
+            <br>
+            <h6>Um Retorno Cheio de Emoção</h6>
+            <p>Logo na chegada de Klay ao Chase Center, ele foi saudado por vários funcionários da organização do Warriors. Eles o receberam “de braços abertos”, demonstrando o carinho e o respeito conquistados ao longo dos 13 anos de contribuição do jogador para a franquia. Mas não foi apenas nos bastidores que Thompson foi homenageado. Os torcedores presentes no ginásio também fizeram questão de mostrar sua gratidão, utilizando boinas de capitão em referência ao icônico momento do título da NBA em 2022, quando o ala-armador vestiu uma peça semelhante durante as celebrações.</p>
+            <p>Além disso, o ambiente no Chase Center transbordava gratidão e respeito. Não era apenas um jogo, mas uma celebração da trajetória de um dos maiores ídolos da história recente do Warriors. Foi uma despedida simbólica de um jogador que ajudou a levar a franquia ao topo da NBA por quatro vezes.</p>
+            <br>
+            <h6>Elogios de Neymar</h6>
+            <p>A homenagem a Klay não passou despercebida pelo mundo esportivo. Neymar, atacante do Al-Hilal e uma das maiores estrelas do futebol mundial, publicou em seu Instagram um story com a frase: “Muito maneiro o que fizeram. Esse cara merece todo reconhecimento!”.</p>
+            <p>O gesto do jogador brasileiro reforça o impacto que Thompson tem não apenas no basquete, mas também em outras esferas esportivas. Seu profissionalismo, carisma e conquistas criaram uma marca que transcende as quadras.</p>
+            <br>
+            <h6>Uma Nova Jornada em Dallas</h6>
+            <p>Após 13 temporadas gloriosas com o Golden State Warriors, Klay Thompson deixou a franquia como agente livre na última offseason. Não demorou muito para que o Dallas Mavericks o contratasse para a temporada 2024/25. Embora sua saída tenha deixado um vazio na Bay Area, o respeito entre Thompson e o Warriors permanece intacto, como ficou evidente na recepção emocionante que ele recebeu.</p>
+            <p>Agora, com a camisa dos Mavericks, Klay tem a oportunidade de escrever um novo capítulo em sua carreira, mas sua contribuição para o legado do Warriors será eterna. Ele não é apenas um jogador de basquete; é uma lenda viva da NBA.</p>
+            <br>
+            <h6>Conclusão</h6>
+            <p>O retorno de Klay Thompson à Bay Area foi uma celebração de sua carreira e legado. A homenagem, tanto da torcida quanto da organização, mostrou o impacto duradouro de sua passagem pelo Warriors. E, ao receber elogios até mesmo de Neymar, fica claro que Thompson transcendeu o basquete, consolidando-se como um ícone no esporte mundial.</p>
+    `
+    },
+    {
+        "img-src": "vitoria_emocionante_na_nba__time_surpreende_com_arremesso_decisivo_no_ultimo_segundo.png",
+        "headline": "Vitória emocionante na NBA: time surpreende com arremesso decisivo no último segundo",
+        "fine-line": "Arremesso no último segundo garante vitória épica dos Lakers sobre os Warriors",
+        "author-id": 2,
+        "publish-date": {
+            "date": ["15","11","2024"],
+            "hour": ["18","43"]
+        },
+        "category-id": 1,
+        "noticeHTML": `
+            <p>Na noite de ontem, os fãs de basquete foram presenteados com uma partida emocionante na NBA. O jogo entre os Los Angeles Lakers e os Golden State Warriors foi decidido nos segundos finais, com um arremesso espetacular do ala-armador dos Lakers, que garantiu a vitória por 112 a 110.</p>
+            <p>Com menos de cinco segundos no cronômetro, o astro LeBron James atraiu a marcação dupla e fez um passe preciso para o companheiro de equipe, que, de fora do perímetro, converteu a bola de três pontos que selou o triunfo. “Foi um momento incrível. Treinamos essas situações o tempo todo, e hoje deu certo”, disse o herói da noite em entrevista após o jogo.</p>
+            <p>O destaque também ficou para Stephen Curry, dos Warriors, que marcou 38 pontos e manteve sua equipe na disputa até o último instante. Mesmo com a derrota, Curry elogiou a performance do adversário: “Eles jogaram muito bem e souberam aproveitar as oportunidades”.</p>
+            <p>Com o resultado, os Lakers sobem na classificação e reforçam sua posição como um dos favoritos na Conferência Oeste. A próxima rodada promete mais emoções, com rivalidades históricas e disputas acirradas pelo topo da tabela.</p>
+    `
     }
 ]
-
-const posts1 =
-[
-    {
-        "img-src": "/importeds/Bola_de_Ouro_por_que_Vini_Jr_e_Real_Madrid_boicotaram_a_premiação.png",
-        "headline": "Bola de Ouro: por que Vini Jr. e Real Madrid boicotaram a premiação?",
-        "fine-line": "Atacante do Real Madrid e vencedor da Champions League, Vini Jr. era considerado um dos favoritos para vencer o prêmio Bola de Ouro masculino nesta segunda-feira (28/10). Mas o jogador brasileiro nem chegou a viajar para Paris, onde ocorreu a cerimônia de premiação.",
-        "author-id": 0,
-        "publish-date": {
-            "date": ["31","10","2024"],
-            "hour": ["20","34"]
-        }
-    },
-
-    {
-        "img-src": "/importeds/Caio_Ribeiro_revela_votos_de_Cleber_Machado_para_a_Bola_de_Ouro.png",
-        "headline": "Caio Ribeiro revela votos de Cleber Machado para a Bola de Ouro",
-        "fine-line": "Bola de Ouro foi entregue a Rodri, volante do Manchester City, nesta segunda-feira (28/10); saiba como representante brasileiro votou",
-        "author-id": 1,
-        "publish-date": {
-            "date": ["28","10","2024"],
-            "hour": ["23","47"]
-        }
-    },
-
-    {
-        "img-src": "/importeds/Bola_de_Ouro_Imprensa_espanhola_revela_votos_de_jornalistas.png",
-        "headline": "Bola de Ouro: Imprensa espanhola revela votos de jornalistas",
-        "fine-line": "Jornal esportivo AS revelou como votaram jornalistas de diferentes países na escolha do melhor jogador",
-        "author-id": 2,
-        "publish-date": {
-            "date": ["30","10","2024"],
-            "hour": ["08","47"]
-        }
-    },
-
-    {
-        "img-src": "/importeds/Idolo_do_Real_Madrid_detona_resultado_da_Bola_de_Ouro_Absurdo.png",
-        "headline": "Ídolo do Real Madrid detona resultado da Bola de Ouro: ‘Absurdo’",
-        "fine-line": "Ex-jogador também apontou quem seria o seu vencedor no prêmio de melhor jogador do mundo",
-        "author-id": 3,
-        "publish-date": {
-            "date": ["30","10","2024"],
-            "hour": ["17","25"]
-        }
-    },
-
-    {
-        "img-src": "/importeds/Editor_da_France_Football_revela_motivos_para_derrota_de_Vini_Jr_na_Bola_de_Ouro.png",
-        "headline": "Editor da France Football revela motivos para derrota de Vini Jr na Bola de Ouro",
-        "fine-line": "Brasileiro tinha amplo favoritismo, mas foi derrotado por Rodri na corrida pelo troféu",
-        "author-id": 4,
-        "publish-date": {
-            "date": ["29","10","2024"],
-            "hour": ["08","34"]
-        }
-    },
-
-    {
-        "img-src": "/importeds/Gabigol_e_Lorran_defendem_Vini_Jr_e_provocam_Rodri_após_Bola_de_Ouro_Ganha_prêmio_sem_fazer_nada.png",
-        "headline": "Gabigol e Lorran defendem Vini Jr. e provocam Rodri após Bola de Ouro: “Ganha prêmio sem fazer nada”",
-        "fine-line": "O resultado da Bola de Ouro 2024 ainda repercute no mundo do futebol, e a “France Football” vem recebendo críticas ao eleger Rodri como melhor jogador. No CT do Ninho do Urubu, o atacante Gabigol e o meio-campista Lorran demonstraram indignação, mas em tom de descontração.",
-        "author-id": 5,
-        "publish-date": {
-            "date": ["31","10","2024"],
-            "hour": ["09","49"]
-        }
-    }
-
-];
-
-const postsTest =
-[
-    {
-        "img-src": "/test/soccer.png",
-        "headline": "Publicação 1",
-        "fine-line": "Futebol 1",
-        "author-id": 0,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 0
-    },
-    {
-        "img-src": "/test/tennis.png",
-        "headline": "Publicação 2",
-        "fine-line": "Tenis 1",
-        "author-id": 1,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 2
-    },
-    {
-        "img-src": "/test/basketball.png",
-        "headline": "Publicação 3",
-        "fine-line": "Basquete 1",
-        "author-id": 2,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 1
-    },
-    {
-        "img-src": "/test/basketball.png",
-        "headline": "Publicação 4",
-        "fine-line": "Basquete 2",
-        "author-id": 3,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 1
-    },
-    {
-        "img-src": "/test/chess.png",
-        "headline": "Publicação 5",
-        "fine-line": "Tabuleiro 1",
-        "author-id": 4,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 3
-    },
-    {
-        "img-src": "/test/chess.png",
-        "headline": "Publicação 6",
-        "fine-line": "Tabuleiro 2",
-        "author-id": 5,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 3
-    },
-    {
-        "img-src": "/test/soccer.png",
-        "headline": "Publicação 7",
-        "fine-line": "Futebol 2",
-        "author-id": 0,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 0
-    },
-    {
-        "img-src": "/test/soccer.png",
-        "headline": "Publicação 8",
-        "fine-line": "Futebol 3",
-        "author-id": 1,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 0
-    },
-    {
-        "img-src": "/test/basketball.png",
-        "headline": "Publicação 9",
-        "fine-line": "Basquete 3",
-        "author-id": 2,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 1
-    },
-    {
-        "img-src": "/test/basketball.png",
-        "headline": "Publicação 10",
-        "fine-line": "Basquete 4",
-        "author-id": 3,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 1
-    },
-    {
-        "img-src": "/test/chess.png",
-        "headline": "Publicação 11",
-        "fine-line": "Tabuleiro 3",
-        "author-id": 4,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 3
-    },
-    {
-        "img-src": "/test/chess.png",
-        "headline": "Publicação 12",
-        "fine-line": "Tabuleiro 4",
-        "author-id": 5,
-        "publish-date": {
-            "date": ["01","01","2024"],
-            "hour": ["18","00"]
-        },
-        "category-id": 3
-    }
-];
 
 export const posts = postsReal
