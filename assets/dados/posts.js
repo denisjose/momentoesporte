@@ -238,6 +238,22 @@ export const postsReal =
             <p>O destaque também ficou para Stephen Curry, dos Warriors, que marcou 38 pontos e manteve sua equipe na disputa até o último instante. Mesmo com a derrota, Curry elogiou a performance do adversário: “Eles jogaram muito bem e souberam aproveitar as oportunidades”.</p>
             <p>Com o resultado, os Lakers sobem na classificação e reforçam sua posição como um dos favoritos na Conferência Oeste. A próxima rodada promete mais emoções, com rivalidades históricas e disputas acirradas pelo topo da tabela.</p>
     `
+    },
+    {
+        "img-src": "lebron_james_atinge_marca_historica_na_nba.png",
+        "headline": "LeBron James atinge marca histórica na NBA",
+        "fine-line": "Astro do Los Angeles Lakers se torna o maior pontuador de todos os tempos em uma única temporada regular",
+        "author-id": 2,
+        "publish-date": {
+            "date": ["17","11","2024"],
+            "hour": ["14","52"]
+        },
+        "category-id": 1,
+        "noticeHTML": `
+            <p>Na noite desta quinta-feira, LeBron James, jogador do Los Angeles Lakers, alcançou mais um marco impressionante em sua carreira ao se tornar o maior pontuador de todos os tempos em uma única temporada regular da NBA. O feito aconteceu durante uma partida contra o Golden State Warriors, na qual LeBron marcou 38 pontos, levando sua equipe à vitória por 112 a 104.</p>
+            <p>Com esse desempenho, o atleta ultrapassou o recorde de Kareem Abdul-Jabbar, que se manteve imbatível por décadas. “É um momento que nunca imaginei viver, mas trabalhei duro por isso. Estou grato a todos que me apoiaram nessa jornada”, declarou LeBron em entrevista após o jogo.</p>
+            <p>O recorde consolida ainda mais sua posição como um dos maiores da história do basquete, alimentando debates sobre quem é o verdadeiro “GOAT” (Greatest of All Time). Enquanto isso, os Lakers seguem firmes na disputa por uma vaga nos playoffs.</p>
+    `
     }
 ]
 
