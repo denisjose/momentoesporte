@@ -246,7 +246,7 @@ export const postsReal =
         "author-id": 2,
         "publish-date": {
             "date": ["17","11","2024"],
-            "hour": ["14","52"]
+            "hour": ["15","01"]
         },
         "category-id": 1,
         "noticeHTML": `
