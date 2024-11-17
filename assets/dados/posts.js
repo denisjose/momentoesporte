@@ -254,6 +254,33 @@ export const postsReal =
             <p>Com esse desempenho, o atleta ultrapassou o recorde de Kareem Abdul-Jabbar, que se manteve imbatível por décadas. “É um momento que nunca imaginei viver, mas trabalhei duro por isso. Estou grato a todos que me apoiaram nessa jornada”, declarou LeBron em entrevista após o jogo.</p>
             <p>O recorde consolida ainda mais sua posição como um dos maiores da história do basquete, alimentando debates sobre quem é o verdadeiro “GOAT” (Greatest of All Time). Enquanto isso, os Lakers seguem firmes na disputa por uma vaga nos playoffs.</p>
     `
+    },
+    {
+        "img-src": "hansel_enmanuel__superacao_e_destaque_no_basquete_universitario_dos_eua.png",
+        "headline": "Hansel Enmanuel: Superação e Destaque no Basquete Universitário dos EUA",
+        "fine-line": "Hansel Enmanuel desafia limites e inspira o mundo do basquete universitário.",
+        "author-id": 3,
+        "publish-date": {
+            "date": ["17","11","2024"],
+            "hour": ["20","31"]
+        },
+        "category-id": 1,
+        "noticeHTML": `
+            <p>No competitivo mundo do basquete universitário norte-americano, Hansel Enmanuel se destaca não apenas pelo seu talento, mas por uma história de superação inspiradora. O jovem dominicano, de 21 anos e 1,98m, vem chamando a atenção por seu desempenho na Universidade de Austin Peay State, mesmo jogando com apenas um braço.</p>
+            <h6>Uma História de Superação</h6>
+            <p>Nascido na República Dominicana, Hansel perdeu um dos braços aos seis anos de idade em um acidente traumático. Durante uma brincadeira, uma parede desabou sobre ele, e os médicos precisaram amputar seu braço esquerdo para salvar sua vida. O choque foi imenso para o menino e sua família.<br>“Quando o acidente aconteceu, pensei: ‘Acabou para mim’”, relembra Hansel em entrevista à Associated Press.</p>
+            <p>Mas, em vez de se deixar abater, ele encontrou no basquete uma forma de desafiar as limitações impostas pelo destino. Com determinação e apoio familiar, Hansel começou a treinar e logo mostrou que poderia competir em alto nível, mesmo com apenas um braço.</p>
+            <h6>Destaque no Basquete Universitário</h6>
+            <p>Hansel Enmanuel atualmente joga na Divisão 1 da NCAA, representando a Austin Peay State University. Com médias de 5,0 pontos, 6,0 rebotes e um impressionante aproveitamento de 85% nos arremessos, o jovem tem mostrado que sua deficiência física não é uma barreira para o sucesso.<br>Seu estilo de jogo combina explosividade, arremessos precisos e dunks espetaculares que desafiam a lógica e encantam torcedores e adversários.</p>
+            <p>Essa habilidade não surgiu do nada: Hansel é filho de uma ex-estrela do basquete dominicano, de quem herdou o talento e a paixão pelo esporte.</p>
+            <h6>De High School à NCAA: Uma Ascensão Incrível</h6>
+            <p>Durante o ensino médio nos Estados Unidos, Hansel teve números incríveis que o colocaram no radar de várias universidades. Sua performance não apenas chamou a atenção de treinadores, mas também inspirou jovens atletas ao redor do mundo.</p>
+            <p>Agora, na Austin Peay State, Hansel está determinado a alcançar novos patamares. Ele já deixou claro que sua meta vai além do basquete universitário: “Vamos chegar à NBA. Esse é o grande objetivo. Ninguém vai me impedir. Só Deus”, declarou com confiança.</p>
+            <h6>Mais que um Jogador: Um Exemplo de Resiliência</h6>
+            <p>A história de Hansel Enmanuel é um exemplo de como a determinação e a fé podem transformar adversidades em grandes conquistas. Ele não apenas desafiou as expectativas, mas também provou que o impossível é apenas uma questão de perspectiva.</p>
+            <p>Seu desempenho continua a inspirar fãs, treinadores e atletas em todo o mundo, mostrando que o talento, aliado à resiliência, pode superar qualquer obstáculo.</p>
+            <p>Hansel ainda está no início de sua jornada, mas seu objetivo de jogar na NBA parece cada vez mais possível. Seja em Austin ou no maior palco do basquete mundial, uma coisa é certa: ele continuará sendo um exemplo vivo de que os sonhos podem se tornar realidade, mesmo contra todas as probabilidades.</p>
+    `
     }
 ]
 
